@@ -1,4 +1,4 @@
-package com.mryx.logistics.order.core.mapper;
+package com.mryx.logistics.order.core.order1.mapper;
 
 /**
  * @author maqiqi
