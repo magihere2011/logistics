@@ -1,4 +1,4 @@
-package com.mryx.logistics.order.core.order1.manager;
+package com.mryx.logistics.order.core.orderxxx.manager;
 
 /**
  * @author maqiqi

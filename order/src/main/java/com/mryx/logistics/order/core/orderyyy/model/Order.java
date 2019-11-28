@@ -1,4 +1,4 @@
-package com.mryx.logistics.order.core.order1.model;
+package com.mryx.logistics.order.core.orderyyy.model;
 
 /**
  * @author maqiqi
